@@ -41,6 +41,20 @@
     * [HackerRank](https://www.hackerrank.com/)
 
 * ### Books
+    * [Humble Bundle](https://humblebundle.com)
+    * [Automate The Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1?crid=34R2QOMBYX9W9&keywords=automate+the+boring+stuff+with+python&qid=1703770532&sprefix=automate+the+bo%2Caps%2C156&sr=8-1)
+    * [Hacker Playbook](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1494932636/ref=sr_1_1?crid=1E9INAUH5SDNH&keywords=hacker+playbook&qid=1703770587&sprefix=hacker+playbook%2Caps%2C128&sr=8-1)
+    * [Black Hat Python](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129/ref=sr_1_1?crid=2DSR7OH6BZ2I8&keywords=black+hat+python&qid=1703770662&sprefix=black+hat+python%2Caps%2C120&sr=8-1)
+    * [Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=sr_1_4?crid=28JPSNHE45LV9&keywords=web+application&qid=1703770699&sprefix=web+application+%2Caps%2C126&sr=8-4)
+    * [Ghost In The Wires](https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Paperback/dp/B00EQC1S18/ref=sr_1_4?crid=2WVODGK05MPMT&keywords=ghost+in+the+wires&qid=1703770794&sprefix=ghost+in+the+wires%2Caps%2C120&sr=8-4)
+    * [The Cuckoo's Egg](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787/ref=sr_1_1?crid=RLW26JDZT2L0&keywords=cuckoo%27s+nest+hacker&qid=1703770828&sprefix=cuckoos+nest+hacker%2Caps%2C325&sr=8-1)
+    * [Sandworm](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632/ref=sr_1_1?crid=8A33I30WSDUP&keywords=sandworm&qid=1703770887&sprefix=sandworm%2Caps%2C111&sr=8-1)
+    * [Countdown to Zero Day](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196/ref=m_crc_dp_lf_d_t1_d_sccl_2_2/136-9326468-7667164?pd_rd_w=J6Jcx&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=BZ4SK8HJBYHCXSWDVYMK&pd_rd_wg=v9znb&pd_rd_r=6dd0a509-b2d1-4b51-ae6e-d7e3d3c345b7&pd_rd_i=0770436196&psc=1)
+
+
+* ### Zines
+    * [Phrack](http://www.phrack.org/)
+    * [2600](https://www.2600.com/)
 
 ## Tools
 
@@ -49,11 +63,9 @@
     * [Talos Intelligence](https://talosintelligence.com)
     * [DNS Dumpster](https://dnsdumpster.com) 
 * ### Stegenography
-    - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
-    - [ManyTools](https://manytools.org/)
-    - 
+    * [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
+    * [ManyTools](https://manytools.org/)
 * ### Threat Hunting
-    - 
     * [Mitre](https://attack.mitre.org/)
     * [hunt.io](https://hunt.io)
     * [ControlCompass](https://controlcompass.github.io)
