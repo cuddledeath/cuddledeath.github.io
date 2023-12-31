@@ -55,10 +55,12 @@
 * ### OSINT
     * [OhShint! by Toaster <3](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
     * [Talos Intelligence](https://talosintelligence.com)
-    * [DNS Dumpster](https://dnsdumpster.com) 
-* ### Stegenography
+    * [DNS Dumpster](https://dnsdumpster.com)
+    * 
+* ### Steganography
     * [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
     * [ManyTools](https://manytools.org/)
+    * 
 * ### Threat Hunting
     * [Mitre](https://attack.mitre.org/)
     * [hunt.io](https://hunt.io)
@@ -66,6 +68,6 @@
     * [GreyNoise](https://www.greynoise.io)
     * [Hunter How](https://hunter.how/)
     * [RiskIQ](https://community.riskiq.com/)
-
+    * 
 * ### Scanners
     * [CRXCavator Extension Scanner](https://crxcavator.io/)
