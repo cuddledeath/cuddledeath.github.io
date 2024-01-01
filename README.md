@@ -12,8 +12,9 @@
 * ### TryHackMe: [cuddledeath](https://tryhackme.com/p/cuddledeath)
 * ### Github: [cuddledeath](https://github.com/cuddledeath)
 
-## Learning
-
+## Learning 
+    *Disclaimer: I've no association with any of these sources other than I thought they were useful. The information and content is owned by the individual creators. I'm just sharing.*
+    
 * ### Certs
     * [Google Cyber Security Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
     * [ISC2 Certified in Cyber Security](https://www.isc2.org/certifications/cc)
@@ -45,10 +46,23 @@
     * [Sandworm](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632/ref=sr_1_1?crid=8A33I30WSDUP&keywords=sandworm&qid=1703770887&sprefix=sandworm%2Caps%2C111&sr=8-1)
     * [Countdown to Zero Day](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196/ref=m_crc_dp_lf_d_t1_d_sccl_2_2/136-9326468-7667164?pd_rd_w=J6Jcx&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=BZ4SK8HJBYHCXSWDVYMK&pd_rd_wg=v9znb&pd_rd_r=6dd0a509-b2d1-4b51-ae6e-d7e3d3c345b7&pd_rd_i=0770436196&psc=1)
 
-
 * ### Zines
     * [Phrack](http://www.phrack.org/)
     * [2600](https://www.2600.com/)
+
+* ### Youtube Channels
+    * [JohnHammond](https://www.youtube.com/@_JohnHammond)
+    * [NetworkChuck](https://www.youtube.com/@NetworkChuck)
+    * [Professor Messer](https://www.youtube.com/@professormesser)
+    * [NahamSec](https://www.youtube.com/@NahamSec)
+    * [STÖK](https://www.youtube.com/@STOKfredrik)
+    * [InsiderPHD](https://www.youtube.com/@InsiderPhD)
+    * [IPPSec](https://www.youtube.com/@ippsec)
+    * [LiveOverflow](https://www.youtube.com/@LiveOverflow)
+    * [TheCyberMentor](https://www.youtube.com/@TCMSecurityAcademy)
+    * [PwnFunction](https://www.youtube.com/@PwnFunction)
+    * [CyberSecurity Meg](https://www.youtube.com/@CybersecurityMeg)
+    * [GynvaelEN](https://www.youtube.com/@GynvaelEN)
 
 ## Tools
 
@@ -60,7 +74,7 @@
 * ### Steganography
     * [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
     * [ManyTools](https://manytools.org/)
-    * 
+      
 * ### Threat Hunting
     * [Mitre](https://attack.mitre.org/)
     * [hunt.io](https://hunt.io)
@@ -68,6 +82,6 @@
     * [GreyNoise](https://www.greynoise.io)
     * [Hunter How](https://hunter.how/)
     * [RiskIQ](https://community.riskiq.com/)
-    * 
+      
 * ### Scanners
     * [CRXCavator Extension Scanner](https://crxcavator.io/)
