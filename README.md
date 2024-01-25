@@ -44,6 +44,9 @@
     * [Code Combat](https://codecombat.com/)
     * [CSS Diner](https://flukeout.github.io/)
     * [Tensor Trust AI Prompt Attack / Defense](https://tensortrust.ai/)
+    * [Flexbox Froggy](https://flexboxfroggy.com/)
+    * [Flexbox Defense](http://www.flexboxdefense.com/)
+    * [CodeMonkey](https://www.codemonkey.com/)
 
 * ### Books
     * [Humble Bundle](https://humblebundle.com)
