@@ -28,7 +28,7 @@
     * [BlueTeamLabs](https://blueteamlabs.online/)
     * [BurpSuite PortSwigger Academy](https://portswigger.net/web-security)
 
-### OSINT Challenges
+* ### OSINT Challenges
     * [Sector035 Quizes](https://quiz.sector035.nl)
     * [Osint Dojo](https://www.osintdojo.com/)
 
