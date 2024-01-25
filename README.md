@@ -28,12 +28,22 @@
     * [BlueTeamLabs](https://blueteamlabs.online/)
     * [BurpSuite PortSwigger Academy](https://portswigger.net/web-security)
 
+### OSINT Challenges
+    * [Sector035 Quizes](https://quiz.sector035.nl)
+    * [Osint Dojo](https://www.osintdojo.com/)
+
 * ### Programming Challenges
     * [CryptoHack](https://cryptohack.org/)
     * [AdventOfCode](https://adventofcode.com/)
     * [PythonChallnege](http://www.pythonchallenge.com/)
     * [CodingGame](https://www.codingame.com/start/)
     * [HackerRank](https://www.hackerrank.com/)
+    * [CheckIO](https://checkio.org/)
+    * [Screeps](https://screeps.com/)
+    * [SQL Murder Mystery](https://mystery.knightlab.com/)
+    * [Code Combat](https://codecombat.com/)
+    * [CSS Diner](https://flukeout.github.io/)
+    * [Tensor Trust AI Prompt Attack / Defense](https://tensortrust.ai/)
 
 * ### Books
     * [Humble Bundle](https://humblebundle.com)
@@ -63,14 +73,16 @@
     * [PwnFunction](https://www.youtube.com/@PwnFunction)
     * [CyberSecurity Meg](https://www.youtube.com/@CybersecurityMeg)
     * [GynvaelEN](https://www.youtube.com/@GynvaelEN)
+    * [VirusTotal Academy](https://www.youtube.com/playlist?list=PLO3ARB-zEuSOUZZkAd9r7PNXZagTQ6Y8x)
 
 ## Tools
 
 * ### OSINT
     * [OhShint! by Toaster <3](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
+    * [Osint Techniques](https://www.osinttechniques.com/#)
     * [Talos Intelligence](https://talosintelligence.com)
     * [DNS Dumpster](https://dnsdumpster.com)
-    * 
+      
 * ### Steganography
     * [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
     * [ManyTools](https://manytools.org/)
